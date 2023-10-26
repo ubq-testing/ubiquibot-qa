@@ -3,7 +3,7 @@
   priceMultiplier: 1,
   issueCreatorMultiplier: 2,
   paymentPermitMaxPrice: 9007199254740991,
-  assistivePricing: false,
+  assistivePricing: true,
   commentIncentives: false,
   incentives: {
     comment: {
