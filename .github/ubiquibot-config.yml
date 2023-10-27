@@ -1,6 +1,6 @@
 {
   evmNetworkId: 100,
-  priceMultiplier: 10,
+  priceMultiplier: 100,
   issueCreatorMultiplier: 2,
   paymentPermitMaxPrice: 9007199254740991,
   assistivePricing: false,
